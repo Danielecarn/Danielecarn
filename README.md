@@ -1,8 +1,7 @@
 ## Oii! Eu sou a Daniele Carnaúba
 
 - 🔭 Atualmente trabalho com segurança da informação
-- 🌱 Estudando desenvolvimento
-- 😄 Pronouns: ela/dela
+- 🌱 Estudando desenvolvimento web
 
 <div align="center">
   <a href="https://github.com/Danielecarn">
