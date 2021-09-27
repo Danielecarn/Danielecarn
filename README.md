@@ -1,6 +1,6 @@
 ## Oii! Eu sou a Daniele Carnaúba
 
-- 🔭 Atualmente trabalho com segurança da informação
+- 🔭 Atualmente trabalhando com Segurança da Informação
 - 🌱 Estudando desenvolvimento web
 
 <div align="center">
