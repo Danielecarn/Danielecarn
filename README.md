@@ -1,4 +1,4 @@
-## Oii! Eu sou a Daniele Carnaúba
+## Oii! Eu sou a Daniele Carnaúba!
 
 - 🔭 Atualmente trabalhando com Segurança da Informação
 - 🌱 Estudando desenvolvimento web
