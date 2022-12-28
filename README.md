@@ -1,7 +1,7 @@
 ## Oii! Eu sou a Daniele Carnaúba!
 
-- 🔭 Atualmente trabalhando com Segurança da Informação
-- 🌱 Estudando desenvolvimento web
+- 🔭 Atualmente trabalhando com Desenvolvimento Web!
+- 🌱 Estudando TDD
 
 <div align="center">
   <a href="https://github.com/Danielecarn">
